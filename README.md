@@ -1,6 +1,6 @@
 # Tracalorie - Module Pattern in JavaScript
 
-🍕 Web app that calculate the calories of your foods, made with Module Design Pattern and storage items in localStorage
+🍕 Web app that calculate the calories of your foods, made with the **Module Design Pattern** and storage items in localStorage
 
 ## Built With
 
